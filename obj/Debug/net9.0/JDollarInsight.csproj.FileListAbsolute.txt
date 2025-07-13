@@ -30,3 +30,4 @@
 /Users/joshmorris/Documents/Side Projects/JDollarInsight/bin/Debug/net9.0/tr/System.CommandLine.resources.dll
 /Users/joshmorris/Documents/Side Projects/JDollarInsight/bin/Debug/net9.0/zh-Hans/System.CommandLine.resources.dll
 /Users/joshmorris/Documents/Side Projects/JDollarInsight/bin/Debug/net9.0/zh-Hant/System.CommandLine.resources.dll
+/Users/joshmorris/Documents/Side Projects/JDollarInsight/obj/Debug/net9.0/JDollarInsight.sourcelink.json

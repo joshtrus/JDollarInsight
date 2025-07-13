@@ -15,9 +15,10 @@ public class S3Uploader
         _s3Client = new AmazonS3Client(); 
     }
 
-    public async Task UploadExchangeRateAsync(float rate)
+    public async Task UploadExchangeRateAsync(float rate, DateTime? date = null)
     {
-        DateTime currentDate = DateTime.Now;
+        
+        DateTime currentDate =date ?? DateTime.Now;
 
         string folder = $"{currentDate:yyyyMM}";
         string fileName = $"jmd-usd_{currentDate:yyyyMMdd}.json";
