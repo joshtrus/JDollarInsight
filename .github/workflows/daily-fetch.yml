@@ -25,7 +25,7 @@ jobs:
         run: dotnet build --configuration Release
 
       - name: Run CLI fetch command
-        run: dotnet run --project JDollarInsight -- fetch
+        run: dotnet run -- fetch
 
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
