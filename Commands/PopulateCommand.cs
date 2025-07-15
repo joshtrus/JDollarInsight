@@ -1,7 +1,5 @@
 using System.CommandLine;
-using System.CommandLine.Invocation;
 using JDollarInsight.Storage;
-using System.Globalization;
 
 namespace JDollarInsight.Commands;
 

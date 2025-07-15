@@ -9,6 +9,8 @@ class Program
 
         rootCommand.AddCommand(FetchCommand.Create());
         rootCommand.AddCommand(PopulateCommand.Create());
+        rootCommand.AddCommand(DetectAnomalyCommand.Create());
+        rootCommand.AddCommand(StatsCommand.Create());
 
         return await rootCommand.InvokeAsync(args);
     }

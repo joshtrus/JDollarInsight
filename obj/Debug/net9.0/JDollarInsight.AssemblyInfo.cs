@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JDollarInsight")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+791c12f3909fdedda49493795771ed9b76fdcb97")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+660bb9e4b8299c380e79be815fc6de2de8d8a770")]
 [assembly: System.Reflection.AssemblyProductAttribute("JDollarInsight")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JDollarInsight")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
